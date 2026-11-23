@@ -1,0 +1,11 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20101114072020","http://www.imdb.com:80/title/tt0056923/ratings","200","text/html","JVFI3NQRPLBS45NCNO5CFXAMRJV7C7WN"],
+["20130507235609","http://www.imdb.com:80/title/tt0056923/ratings?","200","text/html","OKRAPO47OWVGRYNC5SLVZOMK6RLONI42"],
+["20221017205308","https://www.imdb.com/title/tt0056923/ratings","200","text/html","T4FANLNQHDIZIU4PTHF5DCZ5SDUDFVP7"],
+["20221017205320","https://www.imdb.com/title/tt0056923/ratings","200","text/html","AYTI2AGF5XICCIL7X3ENKDERBPCTVDYK"],
+["20221017205320","https://www.imdb.com/title/tt0056923/ratings","200","text/html","F3UE4NXRKT4IRIBNX27QCFWBJ6Z4ALCS"],
+["20221017205320","https://www.imdb.com/title/tt0056923/ratings","200","text/html","MT3IGVVVX4FEEXRIPQ2A7IC4USMZTDBJ"],
+["20221017205320","https://www.imdb.com/title/tt0056923/ratings","200","text/html","OXZCNOE5SPL5U4ZO565K4FGOIHCTYT6A"],
+["20221017205320","https://www.imdb.com/title/tt0056923/ratings","200","text/html","PKFDGIFXFHMCAXMMV3QVT3TTQBTQ4ETQ"],
+["20221017205320","https://www.imdb.com/title/tt0056923/ratings","200","text/html","YKONRIXDOO4TV7DWUFI4QQ4JDCZ4UM2P"],
+["20230121133637","https://www.imdb.com/title/tt0056923/ratings","200","text/html","LDYQAPZRBZRKBK5Q5OZLB26IPYVIXTEC"]]

@@ -1,0 +1,5 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20190405111317","https://www.imdb.com/title/tt7019842/ratings","200","text/html","GVEQT6UDFLULR5ZRFAEK4TW63BOT2REO"],
+["20220301093825","https://www.imdb.com/title/tt7019842/ratings/","200","text/html","V7UCEYSZSD7KMFLYBMRCBQKYBHUN55V2"],
+["20241002033252","https://www.imdb.com/title/tt7019842/ratings/","200","text/html","LX57ECY4QLE2KYYAJGZJT3TNCJCGXON5"],
+["20260121232300","https://www.imdb.com/title/tt7019842/ratings/","200","text/html","UHOO7U7DBCEF6TCBX2Q5IBFJYVUPZCOW"]]

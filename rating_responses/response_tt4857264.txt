@@ -1,0 +1,5 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20170309054106","http://www.imdb.com:80/title/tt4857264/ratings?","200","text/html","W7ACNY3YASOD7CHZCDA6M24TVU4XLN5I"],
+["20171007094712","http://www.imdb.com:80/title/tt4857264/ratings?","200","text/html","YOM4EPWDUJRY34ELFSR5MUHT5EN3ETVW"],
+["20220427181247","https://www.imdb.com/title/tt4857264/ratings/","200","text/html","SYNAUL64WEB4ZARWDD2KLJUQG5CD5OC2"],
+["20241002012641","https://www.imdb.com/title/tt4857264/ratings/","200","text/html","GP2YHYANAJEVFFRQWWRVCZ2OP6NXCDMD"]]

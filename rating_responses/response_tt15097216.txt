@@ -1,0 +1,4 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20211105085946","https://www.imdb.com/title/tt15097216/ratings/","200","text/html","XZQBE5SYOVVOZ2MUHARDXKG226BUCDIF"],
+["20220106090717","https://www.imdb.com/title/tt15097216/ratings","200","text/html","QVAHSIQ4NH7L3UUMDYHLNIO5DBPCKJTS"],
+["20220412052209","https://www.imdb.com/title/tt15097216/ratings/","200","text/html","KAQLXGUKQ7NQS2BXICUF34NJXCZ7WMQ5"]]

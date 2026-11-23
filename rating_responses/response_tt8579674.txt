@@ -1,0 +1,5 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20220705164954","https://www.imdb.com/title/tt8579674/ratings","200","text/html","F2TUKSEF2S2MKSGQVXFQR3ZQHSGHH4FU"],
+["20220805082312","https://www.imdb.com/title/tt8579674/ratings/","200","text/html","G2DXSVMODQMMHOPNCZ3M7OOZEPQM5SDX"],
+["20220915114856","https://www.imdb.com/title/tt8579674/ratings","200","text/html","RXYLEMWZDZQBAJQPYGHHCWJOPXQ52KXS"],
+["20230131002720","https://www.imdb.com/title/tt8579674/ratings","200","text/html","3AWG5MU2WKNYPFOXIXJCPYKEYSELGFF4"]]

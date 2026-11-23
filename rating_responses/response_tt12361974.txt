@@ -1,0 +1,6 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20211024140524","https://www.imdb.com/title/tt12361974/ratings/","200","text/html","UASKQOYNZCUXIKYQJ7GXAL3UUUAL4D3U"],
+["20220311050723","https://www.imdb.com/title/tt12361974/ratings/","200","text/html","DKUWXVZNLDTCPIYW7T2MXLQKSUKPEGUW"],
+["20221022231827","https://www.imdb.com/title/tt12361974/ratings","200","text/html","GZKGTRH4QQD7C4K5TDQDHPAY7VYZCH33"],
+["20230405193531","https://www.imdb.com/title/tt12361974/ratings/","200","text/html","TKWIR6BK5SJU3D62NV3ZALMSIVP5NTTG"],
+["20230515021830","https://www.imdb.com/title/tt12361974/ratings/","200","text/html","CHZKITMVSKEWFZAY7JRBTMPZV6SLP3CB"]]

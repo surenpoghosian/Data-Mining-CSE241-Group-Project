@@ -1,0 +1,5 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20240523074124","https://www.imdb.com/title/tt29623480/ratings/","200","text/html","OCK7L7L6ZZNF5SEGIYI4EC3HGGNIPRPJ"],
+["20241005160212","https://www.imdb.com/title/tt29623480/ratings/","200","text/html","VFUV2MWN2OPJRMHYECW5XBXQCKFUPPZR"],
+["20241005175415","https://www.imdb.com/title/tt29623480/ratings/","200","text/html","JTCWDRIUXU6OMFGJS7HTAHCNOKNIBZAD"],
+["20250622002954","https://www.imdb.com/title/tt29623480/ratings/","200","text/html","HKOHIBJGLRF6BAHY7SRBXPSP63XHU2CE"]]

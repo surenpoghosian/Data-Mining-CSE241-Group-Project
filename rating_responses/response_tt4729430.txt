@@ -1,0 +1,5 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20191208065301","https://www.imdb.com/title/tt4729430/ratings","200","text/html","RUTEHKHSDP3FW3LXJVABZIIUET7T3UIJ"],
+["20220508212058","https://www.imdb.com/title/tt4729430/ratings","200","text/html","LV4PX5OSYT6SGLUG4Z55OMCMACLZZSOP"],
+["20250620154529","https://www.imdb.com/title/tt4729430/ratings/","200","text/html","TWVCYNAQFO5NHXRCDCWRAR536N33PA3L"],
+["20260107062412","https://www.imdb.com/title/tt4729430/ratings/","200","text/html","HVOT2IMILACDQRZQSFCS3TVN6EULTF6V"]]

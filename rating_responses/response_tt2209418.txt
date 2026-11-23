@@ -1,0 +1,5 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20130324013513","http://www.imdb.com:80/title/tt2209418/ratings?","200","text/html","JWHSBQMF2ZZQYMQXDZUYPURY6EV447CE"],
+["20130827004605","http://www.imdb.com:80/title/tt2209418/ratings","200","text/html","L6DKNKZWVW67WNHSDR66HU6ELIOYZHOD"],
+["20221017205413","https://www.imdb.com/title/tt2209418/ratings","200","text/html","YWZE2QEU3Y4SJ436WYPFGUNLQGMYDRVN"],
+["20241002103742","https://www.imdb.com/title/tt2209418/ratings/","200","text/html","2TGZMN2OTDSASNI3VQ54EPAPBPUCSDFJ"]]

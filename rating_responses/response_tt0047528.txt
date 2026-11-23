@@ -1,0 +1,12 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20031231212722","http://www.imdb.com:80/title/tt0047528/ratings","200","text/html","KGP5LB6F4TQ34TRA3VURFDJXC7DRYMQK"],
+["20060209211401","http://www.imdb.com:80/title/tt0047528/ratings","200","text/html","PHA5E2DD7UW5NDUDDNRV6TPQ4RBDKNHP"],
+["20061108150114","http://www.imdb.com:80/title/tt0047528/ratings","200","text/html","2FTWULWPWHFHESF77RE4I74OSEML2YHP"],
+["20080707044134","http://imdb.com/title/tt0047528/ratings","200","text/html","X3OBOGAL4FLTANUJRBHPMJNDIYXZFPX3"],
+["20110521233117","http://www.imdb.com:80/title/tt0047528/ratings","200","text/html","XP76J2UG5UMXMDVD6Q4IEA3G5URHQ7WK"],
+["20131112114340","http://www.imdb.com/title/tt0047528/ratings","200","text/html","UXPQ4D3KNEESCTKMWRIQMTEIYPONBSCU"],
+["20140223000957","http://www.imdb.com/title/tt0047528/ratings","200","text/html","UBG6WVCUMV3IHPO555USBGJKXO6FRUAB"],
+["20140317061306","http://www.imdb.com/title/tt0047528/ratings","200","text/html","QBISMFNYGHKHNUB7ZX6RPBS5ZYSCM5EN"],
+["20220326221507","https://www.imdb.com/title/tt0047528/ratings/","200","text/html","ONRDMD2TAT3ZR3VE6AXCDYY7CSUSHFC4"],
+["20221017204214","https://www.imdb.com/title/tt0047528/ratings","200","text/html","J7PA2PH2JU7BJTT4AH3JGKOEKN655GER"],
+["20251123105323","https://www.imdb.com/title/tt0047528/ratings/","200","text/html","6D6PKOWU5DKK55C2YDVOCJJQ7OWHZH7Q"]]

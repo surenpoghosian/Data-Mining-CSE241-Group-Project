@@ -1,0 +1,3 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20121112031236","http://www.imdb.com:80/title/tt0242519/ratings","200","text/html","QA3AVIB5NYYOV4C42FDCP5D245SYLTNC"],
+["20250225055131","https://www.imdb.com/title/tt0242519/ratings/","200","text/html","P7J65D7DQWT6OLAWXPAJBYFJSC34SSF7"]]

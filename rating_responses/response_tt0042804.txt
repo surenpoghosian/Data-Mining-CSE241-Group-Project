@@ -1,0 +1,5 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20050404185853","http://www.imdb.com:80/title/tt0042804/ratings","200","text/html","36YLXTXA22PPB2STLQHSAWVPLLAI6M2V"],
+["20220626021306","https://www.imdb.com/title/tt0042804/ratings","200","text/html","GPC4IRLCMO22OAIYQ7EYCW5U62CNTQ22"],
+["20221025065128","https://www.imdb.com/title/tt0042804/ratings","200","text/html","DZLR2XTDJKZ4YYNZC2CXJ2MY2TCH2TFF"],
+["20230421040624","https://www.imdb.com/title/tt0042804/ratings/","200","text/html","KQDVHESC7NG65OZ3TLC35DEBYPUWG6LM"]]

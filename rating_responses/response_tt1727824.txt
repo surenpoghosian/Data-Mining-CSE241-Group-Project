@@ -1,0 +1,8 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20181112073647","https://www.imdb.com/title/tt1727824/ratings","200","text/html","SGOKPKU5NRA22KYAKUHG6S4N4XUPZKVX"],
+["20220107154428","https://www.imdb.com/title/tt1727824/ratings","200","text/html","DLYA2ZZDMVVF6P3PZEFI4I5ZXJJXV3RR"],
+["20220107162315","https://www.imdb.com/title/tt1727824/ratings","200","text/html","ERULGGCXIOSXOMJ6GWJSSXUKZBYCEYK2"],
+["20220919125503","https://www.imdb.com/title/tt1727824/ratings","200","text/html","E2RSBH5OEM3LSHVUHZVFMMQLOSIJU2KJ"],
+["20221111120625","https://www.imdb.com/title/tt1727824/ratings","200","text/html","IVJQJPJUUWIXL4PO3I7KGRSX6AMSB2JS"],
+["20240705172156","https://www.imdb.com/title/tt1727824/ratings/","200","text/html","AHMN3NPNBH5PAK4T2XWIPOQUOHLLU4YL"],
+["20240705211211","https://www.imdb.com/title/tt1727824/ratings/","200","text/html","4CJ5YZZ5BUYXU75WKLN4HBALAMCRIZMD"]]

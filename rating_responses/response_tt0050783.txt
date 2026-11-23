@@ -1,0 +1,7 @@
+[["timestamp","original","statuscode","mimetype","digest"],
+["20060503081619","http://www.imdb.com:80/title/tt0050783/ratings","200","text/html","TH5P5AV4GLPAIHUAKORTLHDNTQPJJEIE"],
+["20091204150657","http://www.imdb.com:80/title/tt0050783/ratings","200","text/html","2B32XGNDGQJ55X4PR52J5XC4BYKIUYAG"],
+["20110521233132","http://www.imdb.com:80/title/tt0050783/ratings","200","text/html","7THX2TWPQ2IP6EORSH2NHZOKVTPNJR53"],
+["20191213061955","https://www.imdb.com/title/tt0050783/ratings","200","text/html","SUO54NTPIL2IBWWK5A4LZBTEZ4FB6U4S"],
+["20221017185710","https://www.imdb.com/title/tt0050783/ratings","200","text/html","3ITZZ22P6H5AHZM7VUYFSM2QRGNITSU6"],
+["20221020215802","https://www.imdb.com/title/tt0050783/ratings","200","text/html","CZ3Q7I7SWLQBNKERSQCPUG7WR463W64B"]]

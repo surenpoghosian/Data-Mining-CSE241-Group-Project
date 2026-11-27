@@ -1,16 +1,25 @@
-# CSE241-Group-Project
+# CSE241 IMDb Top 250 Project
 
-## Scrape archived IMDb title pages
+This project collects and analyzes historical IMDb Top 250 movie data.
+It builds a dataset of rankings, ratings, vote counts, movie
+metadata, descriptions, and archived snapshot dates from 2005 to 2025.
 
-Run `scrape_imdb_descriptions.ipynb`, execute its dependency cell, and adjust
-`LIMIT` to process the first movie ID in `imdb_ids_with_titles.csv` (default:
-1). Set `LIMIT = 0` to process every ID. The CDX capture list is fetched
-through Tor, then Selenium uses the Tor proxy to try captures newest-first
-until one succeeds. The capture list is saved to
-`responses/response_<imdb_id>.txt`, the successful timestamp to
-`responses/exact_dates_<imdb_id>.csv`, and only the latest successful HTML to
-`descriptions/<imdb_id>.html`.
+## What It Does
 
-For command-line use, install `requests[socks]` and `selenium`, ensure Tor is
-listening on `127.0.0.1:9050`, then run
-`python3 scrape_imdb_descriptions.py --limit 1`; use `--limit 0` for every ID.
+- Retrieves archived IMDb Top 250 pages through Tor
+- Parses movie ranks, titles, ratings, vote counts, and IMDb IDs
+- Downloads archived title descriptions and ratings
+- Combines snapshots into CSV datasets
+- Joins descriptions with ranking and ratings data
+- Provides exploratory analysis in `EDA.ipynb`
+
+## Repository Contents
+
+- `*_top_250/` - archived HTML snapshots and parsed CSV files
+- `imdb_top_250_merged.csv` - all ranking snapshots combined
+- `imdb_ratings.csv` and `imdb_descriptions.csv` - movie-level data
+- `imdb_ratings_with_descriptions.csv` - ratings joined with descriptions
+- `imdb_top_250_with_descriptions.csv` - rankings joined with descriptions
+- `parse_top250_html.py` - parses and merges Top 250 HTML snapshots
+- `join_movie_descriptions.py` - joins descriptions into the merged datasets
+- `EDA.ipynb` - exploratory data analysis
